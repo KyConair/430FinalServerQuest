@@ -1,0 +1,12 @@
+G:\Rich Media II\_ServerQuest\ServerQuest\ServerQuest\bin\Debug\ServerQuest.exe.config
+G:\Rich Media II\_ServerQuest\ServerQuest\ServerQuest\bin\Debug\ServerQuest.exe
+G:\Rich Media II\_ServerQuest\ServerQuest\ServerQuest\bin\Debug\ServerQuest.pdb
+G:\Rich Media II\_ServerQuest\ServerQuest\ServerQuest\obj\Debug\ServerQuest.csprojResolveAssemblyReference.cache
+G:\Rich Media II\_ServerQuest\ServerQuest\ServerQuest\obj\Debug\ServerQuest.exe
+G:\Rich Media II\_ServerQuest\ServerQuest\ServerQuest\obj\Debug\ServerQuest.pdb
+G:\Rich Media II\_ServerQuest\BrokenServerQuest\ServerQuest\bin\Debug\ServerQuest.exe.config
+G:\Rich Media II\_ServerQuest\BrokenServerQuest\ServerQuest\obj\Debug\ServerQuest.exe
+G:\Rich Media II\_ServerQuest\BrokenServerQuest\ServerQuest\obj\Debug\ServerQuest.pdb
+G:\Rich Media II\_ServerQuest\BrokenServerQuest\ServerQuest\bin\Debug\ServerQuest.exe
+G:\Rich Media II\_ServerQuest\BrokenServerQuest\ServerQuest\bin\Debug\ServerQuest.pdb
+G:\Rich Media II\_ServerQuest\BrokenServerQuest\ServerQuest\obj\Debug\ServerQuest.csprojResolveAssemblyReference.cache
